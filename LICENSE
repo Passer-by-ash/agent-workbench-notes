@@ -1,0 +1,81 @@
+# 许可 / License
+
+本仓（`agent-workbench-notes`）采用**双许可**：文档与代码分开。
+
+---
+
+## 一、文档部分 —— CC BY 4.0
+
+适用于本仓全部文字内容：`README.md`、`docs/` 下所有 Markdown 文件，以及未来加入的任何说明性文字。
+
+**你可以自由地：**
+
+- **共享** —— 以任何媒介或格式复制、发行本作品
+- **演绎** —— 修改、转换、以本作品为基础进行创作
+- **商业使用** —— 上述权利包含商业目的
+
+**只要你遵守以下条件：**
+
+- **署名（Attribution, BY）** —— 你必须给出适当的署名，提供指向本许可的链接，并说明是否作出了修改。你可以用任何合理的方式署名，但不得暗示许可人认可你或你的使用。
+
+**并且理解：**
+
+- 没有附加限制 —— 你不得使用法律条款或技术措施，在法律上限制他人做本许可允许的事。
+- 不提供担保 —— 本作品按「现状」提供，不附带任何明示或默示的担保。
+- 许可人不能撤销 —— 只要你遵守本许可，许可人就不能撤销你使用本作品的权利。
+
+**官方全文（以此为准）**
+
+- 人类可读版：https://creativecommons.org/licenses/by/4.0/deed.zh-hans
+- 法律文本：https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans
+
+本文件下方第一节的中文仅为便于理解的提要，**不构成法律文本**；一切以上面两处官方发布为准。
+
+---
+
+## 二、代码部分 —— MIT
+
+适用于本仓内的程序源码（目前没有；将来若加入 `.cjs` / `.js` / `.mjs` / `.ps1` / `.py` / `.sh` 等文件，即适用本许可）。
+
+```
+MIT License
+
+Copyright (c) 2026 Passer-by-ash
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 三、第三方内容
+
+本仓不含他人作品的正文。
+
+- 引用他人言论或公开材料的，在文中标注来源，按评论与引用处理，不纳入本许可的授权范围；
+- 第三方材料归其各自权利人所有。
+
+## 四、为什么这么选
+
+- **文档用 CC BY**：这批东西的价值在于「能被别人用起来」——方法论、错误、判据，谁引用、谁改造都行，只要说明出自这里。
+- **代码用 MIT**：代码是另一回事，MIT 是这方面的通用做法，省去逐条解释。
+- **没用 NC（非商业）**：NC 听起来保险，但「什么算商业」难以判断，结果往往是别人不敢用——与本仓「发出来是给人看」的初衷相反。
+
+---
+
+*本许可自 2026-11-17 起生效。*
